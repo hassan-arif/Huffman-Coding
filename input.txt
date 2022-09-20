@@ -1,0 +1,6 @@
+Hello, World!
+
+This is an input text file for implementing the algorithm of Huffman Encoding.
+
+It significantly reduces the size of text file.
+However, it requires additional memory space to store binary tree which is separate for every text file.

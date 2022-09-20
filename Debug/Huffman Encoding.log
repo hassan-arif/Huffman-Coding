@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\git\Huffman Encoding\huffman.h(190,17): warning C4309: '=': truncation of constant value
+  Huffman Encoding.vcxproj -> D:\git\Huffman Encoding\Debug\Huffman Encoding.exe
